@@ -1,0 +1,4 @@
+s3:
+  accessKey: access-key
+  secretKey: secret-key
+  region: us-east-1
